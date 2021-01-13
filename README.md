@@ -11,8 +11,4 @@ Descarga el [APK](https://github.globant.com/sofia-meza/BookApp/blob/production/
 * Guía para instalar un APK en tu celular [aquí](https://www.xatakandroid.com/tutoriales/como-instalar-aplicaciones-en-apk-en-un-movil-android)
 
 ## Pantallas
-
-![screens](screenCapture/001.png =120x)
-![screens](screenCapture/002.png =120x)
-![screens](screenCapture/003.png =120x)
-![screens](screenCapture/004.png =120x)
+![screens](screenCapture/screens.png)
