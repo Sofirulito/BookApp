@@ -12,4 +12,7 @@ Descarga el [APK](https://github.globant.com/sofia-meza/BookApp/blob/production/
 
 ## Pantallas
 
-![screens](screenCapture/001.png)(screenCapture/002.png)(screenCapture/003.png)(screenCapture/004.png)
+![screens](screenCapture/001.png =120x)
+![screens](screenCapture/002.png =120x)
+![screens](screenCapture/003.png =120x)
+![screens](screenCapture/004.png =120x)
